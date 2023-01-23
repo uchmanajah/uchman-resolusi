@@ -2,3 +2,4 @@ text coba latihan untuk di github
 -latihan buat konten
 -membuat platfrom
 -membuat vorum diskusi
+-tambahan lagi baris baru
